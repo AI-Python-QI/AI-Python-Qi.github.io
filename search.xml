@@ -8,7 +8,7 @@
       <link href="/2019/12/05/one-tick/"/>
       <url>/2019/12/05/one-tick/</url>
       
-        <content type="html"><![CDATA[<p>Hello World ,this is a test !</p>]]></content>
+        <content type="html"><![CDATA[<p>title: My awesome title<br>date: 2019-07-14 18:38:45<br>categories:<br>    - Category1<br>    - Category2<br>tags:<br>    - Tag1<br>    - Tag2<br>mp3: <a href="http://domain.com/awesome.mp3">http://domain.com/awesome.mp3</a><br>cover: <a href="http://domain.com/awesome.jpg">http://domain.com/awesome.jpg</a></p><p>Hello World ,this is a test !</p>]]></content>
       
       
       <categories>
